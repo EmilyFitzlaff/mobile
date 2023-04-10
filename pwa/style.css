@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
 
 :root {
-    --color-dark1: rgb(14,14,14);
+    --color-dark1: #0e0e0e;
     --color-dark2: rgb(122, 113, 113);
     --color-dark3: rgb(43, 38, 38);
     --color-white: #fff;
@@ -87,6 +87,8 @@ body {
 
 #tarefaFinalizada {
     background-color: var(--color-green1);
+    border: none;
+    border-radius: 50%;
     width: 30px;
     transition: .4s;
 }

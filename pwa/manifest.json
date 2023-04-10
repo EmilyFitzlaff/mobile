@@ -1,0 +1,17 @@
+{
+  "name": "todolist",
+  "short_name": "todolist",
+  "theme_color": "rgb(14,14,14)",
+  "background_color": "rgb(14,14,14)",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "index.html",
+  "prefer_related_applications": "true",
+  "icons" : [
+    {
+      "src": "list.svg",
+      "sizes": "72x72",
+      "type": "image/svg"
+    }
+  ] 
+}
