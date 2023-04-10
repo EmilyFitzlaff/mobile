@@ -1,17 +1,19 @@
 {
-  "name": "todolist",
+  "name": "To Do List",
   "short_name": "todolist",
+  "description": "APP To Do List",
+  "lang": "pt-br",
   "theme_color": "rgb(14,14,14)",
   "background_color": "rgb(14,14,14)",
   "display": "standalone",
   "scope": "/",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "prefer_related_applications": "true",
   "icons" : [
     {
-      "src": "list.svg",
+      "src": "list.png",
       "sizes": "72x72",
-      "type": "image/svg"
+      "type": "image/png"
     }
   ] 
 }
